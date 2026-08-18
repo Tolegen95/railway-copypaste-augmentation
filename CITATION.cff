@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or the results in this repository, please cite both the manuscript and this repository."
+title: "Reproducibility Package: Mask-Guided Copy-Paste Augmentation for Data-Efficient Railway Defect Detection on a Small Imbalanced Dataset"
+type: software
+authors:
+  - family-names: "Abisheva"
+    given-names: "Gulsipat"
+    affiliation: "Department of Artificial Intelligence Technology, Faculty of Information Technologies, L.N. Gumilyov Eurasian National University, Astana, Kazakhstan"
+  - family-names: "Razakhova"
+    given-names: "Bibigul"
+    affiliation: "Department of Information Systems, Faculty of Information Technologies, L.N. Gumilyov Eurasian National University, Astana, Kazakhstan"
+  - family-names: "Aidynov"
+    given-names: "Tolegen"
+    affiliation: "L.N. Gumilyov Eurasian National University, Astana, Kazakhstan"
+    email: tolegen.ch@gmail.com
+  - family-names: "Saparbek"
+    given-names: "Minira"
+    affiliation: "L.N. Gumilyov Eurasian National University, Astana, Kazakhstan"
+repository-code: "https://github.com/Tolegen95/railway-copypaste-augmentation"
+license: MIT
+version: 1.0.1
+date-released: 2026-08-18
+keywords:
+  - railway defect detection
+  - YOLOv8
+  - copy-paste augmentation
+  - class imbalance
+  - data-efficient learning
