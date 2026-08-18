@@ -8,6 +8,19 @@ This package accompanies the revised manuscript and supersedes the original 5-ep
 protocol described in Sections 5-6 of the paper. See `docs/GPU_VALIDATION_FINDINGS_AND_REWRITE.md`
 for the full write-up of what changed and why.
 
+## Authors
+
+- Gulsipat Abisheva — Department of Artificial Intelligence Technology, Faculty of Information
+  Technologies, L.N. Gumilyov Eurasian National University, Astana, Kazakhstan
+- Bibigul Razakhova — Department of Information Systems, Faculty of Information Technologies,
+  L.N. Gumilyov Eurasian National University, Astana, Kazakhstan
+- Tolegen Aidynov — L.N. Gumilyov Eurasian National University, Astana, Kazakhstan
+  (corresponding author, tolegen.ch@gmail.com)
+- Minira Saparbek — L.N. Gumilyov Eurasian National University, Astana, Kazakhstan
+
+See `CITATION.cff` for machine-readable citation metadata (also used by GitHub's "Cite this
+repository" button and by Zenodo's GitHub archival integration).
+
 ## What this is
 
 - `src/prepare_mask_guided_copypaste_yolo.py` — builds the mask-guided copy-paste training set
